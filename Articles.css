@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container-articles{
+    background-color: #225db0;
+    width: 480px;
+    height: 100vh;
+}
+.empower{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 30px;
+}
+.worlds{
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "roboto";
+    font-weight: 200;
+    margin-left: 30px;
+}
+.card1{
+    background-color: #ffffff;
+    margin: 20px;
+    width: 170px;
+    border-radius: 20px;
+}
+.image1{
+    margin-left: 60px;
+    padding: 10px;
+    width: 50px;
+    height: 70px;
+}
+h3{
+    color: #1f2933;
+    font-size: 20px;
+    font-family: "roboto";
+    font-weight: 300;
+    text-align: center;
+}
+
+.bg-container-techn{
+    background-color: #225db0;
+    width: 480px;
+    height: 130vh;
+}
+#carouselExampleIndicators{
+    padding: 20px;
+}
+.topics{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "roboto";
+    font-weight: 500;
+    padding: 20px;
+}
+ul{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "roboto";
+    font-weight: 200;
+
+
+
+
+}
+li{
+    padding: 5px;
+}
+.back{
+    text-align: center;
+}
+button{
+    background-color: #225db0;
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "roboto";
+    font-weight: 200;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    border-color:#cbd2d9;
+    border-width: 2px;
+    border-style: solid;
+    }
